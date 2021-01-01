@@ -1,4 +1,4 @@
 # NLP
-Notebooks for all NLP use-cases.
+Notebooks for various NLP use-cases.
 
-1. Sentiment Analysis using Logistic Regression.
+1. Sentiment Analysis of 10,000 tweets with Logistic Regression
