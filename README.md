@@ -1,2 +1,4 @@
 # NLP
-Notebooks for all NLP tasks from preprocessing the words to training from Logistic Regression to Attention Networks.
+Notebooks for all NLP use-cases.
+
+1. Sentiment Analysis using Logistic Regression.
